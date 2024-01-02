@@ -7,6 +7,7 @@ Prerequisites [https://chrisant996.github.io/clink/clink.html]
 Install Starship using winget
 Open CMD and run
 >winget install --id Starship.Starship
+
 >winget install clink
 
 
