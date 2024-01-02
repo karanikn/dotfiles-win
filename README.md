@@ -31,4 +31,5 @@ Equivalently in PowerShell (Windows) would be adding this line to your $PROFILE:
 
 
 **CMD result **
+
 ![image](https://github.com/karanikn/dotfiles-win/assets/1959460/ca8ab829-95e6-4b56-82d6-0b143ae660f3)
