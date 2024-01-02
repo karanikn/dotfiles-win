@@ -1,10 +1,13 @@
-#karanik "Windows Dotfiles"
+***karanik "Windows Dotfiles***
 
-##Starship DotFile - starship.toml
+**Starship DotFile - starship.toml**
+
 [Guide](https://starship.rs/guide/#%F0%9F%9A%80-installation)
+
 Prerequisites [https://chrisant996.github.io/clink/clink.html]
 
 Install Starship using winget
+
 Open CMD and run
 >winget install --id Starship.Starship
 
