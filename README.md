@@ -1,4 +1,4 @@
-***karanik "Windows Dotfiles***
+***karanik "Windows Dotfiles"***
 
 **Starship DotFile - starship.toml**
 
